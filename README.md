@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Welcome to demosua Repository!</h1>
 
+<h3>Hello! I'm Dmytro, a junior fullstack developer eager to learn and grow in the world of web development. This repository contains the culmination of my learning journey, showcasing projects and exercises completed during my study course.</h3>
+
+- 🔭 I’m currently working on deepening my knowledge in React
+- 📫 How to reach me: 9demetrius9@gmail.com
 <!--
 **demosua/demosua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
