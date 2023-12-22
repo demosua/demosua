@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmytro!</h1>
 
-<h3>junior fullstack developer.</h3>
+<h3 align="center">junior fullstack developer.</h3>
 
 - 🔭 I’m currently working on deepening my knowledge in React
 - 📫 How to reach me: 9demetrius9@gmail.com
